@@ -1,0 +1,20 @@
+.logo{
+
+  margin-left:3%;
+}
+.inboxCls{
+  margin-right: 5%;
+  float: right;
+  background:   #28e7d3  ;
+  border: navajowhite;
+  width: 112px;
+  height: 37px;
+  font-weight: bold;
+}
+.signHeadCls {
+  margin-top: .8%;
+  margin-right: 1%;
+  text-decoration: none;
+  color: black;
+  font-size: 13;
+}
